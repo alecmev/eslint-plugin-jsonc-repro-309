@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/eslint": "^8.56.5",
+    "eslint": "^8.57.0",
+    "eslint-plugin-jsonc": "^2.13.0",
+    "typescript": "^5.4.2"
+  }
+}
